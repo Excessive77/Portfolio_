@@ -4,7 +4,7 @@ import Card from '../Card/Card';
 import Backend from '../../img/secure.jpg';
 import Frontend from '../../img/user.png';
 import Database from '../../img/db.png';
-import Cv from './CV_Jorge_Lopez.pdf';
+import Cv from './CV_Jorge.pdf';
 import { themeContext } from '../../Context';
 import { useContext } from 'react';
 import { motion } from 'framer-motion';
